@@ -19,17 +19,24 @@ I will therefore import my data set into Tableau to create visualizations and da
 
 #### What insights did you or do you want to discover?/ What Solutions do you want to offer? Do People even need these solutions?
 While analysing the data, I want to find patterns that really explain why cryptocurrency adoption differs across countries. For example:
+
 •	Are people in countries with high inflation turning to crypto as a safer store of value?
+
 •	Does better internet access lead to higher crypto usage?
+
 •	How do spikes in Bitcoin or Ethereum prices affect adoption trends?
+
 The goal is to see the story behind the numbers, not just show charts
 
 
 Solutions I Want to Offer
 
 These insights can help:
+
 •	Businesses focus on regions where crypto is growing fast.
+
 •	Policymakers understand which factors encourage or slow adoption, helping create informed regulations.
+
 •	Researchers and analysts have a clear picture of global trends instead of scattered data.
 
 People Need These Solutions because,
