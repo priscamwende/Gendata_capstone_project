@@ -47,3 +47,6 @@ Right now, the crypto world is fast-moving and confusing. Investors, companies, 
 #### How would a business or a community (for Social Impact Projects) benefit from your work?
 
 Businesses can use the information to target markets where cryptocurrency adoption is growing fastest. For example, a fintech company or crypto exchange could focus marketing and services on countries the adoption rate is high. They can also adjust product features based on factors like internet access or economic conditions, which improves customer satisfaction and adoption rates.
+
+ #### Below is the link to my project 
+ https://digital-currency-lens.lovable.app/
